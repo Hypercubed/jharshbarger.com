@@ -38,7 +38,7 @@
     <![endif]-->
 
 	<header></header>
-	<article>
+	<article id="<%= @document.pageid || '' %>">
 		<%- @content %>
 	</article>
 	<footer></footer>

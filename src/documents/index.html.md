@@ -1,9 +1,17 @@
 ---
 layout: 'default'
-title: 'What now?'
+title: 'Jayson Harshbarger'
+pageid: index
 ---
+# Jayson Harshbarger
 
-## Not sure what to do now? Here's some useful links:
+- [www.hypercubed.com](www.hypercubed.com)
+- [blog.hypercubed.com](blog.hypercubed.com)
+- [photos.hypercubed.com](photos.hypercubed.com)
 
-- [DocPad Documentation](http://docpad.org/docs)
-- [IRC Chat Room](irc://irc.freenode.net/docpad)
+
+
+- [google plus](http://plus.google.com/106434515597889238357/)
+- [github.com](github.com/Hypercubed/)
+- [linkedin](www.linkedin.com/in/hypercubed)
+- [500px](500px.com/hypercubed)
