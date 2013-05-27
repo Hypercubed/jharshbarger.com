@@ -12,6 +12,6 @@ pageid: index
 
 
 - [google plus](http://plus.google.com/106434515597889238357/)
-- [github.com](github.com/Hypercubed/)
+- [github](github.com/Hypercubed/)
 - [linkedin](www.linkedin.com/in/hypercubed)
 - [500px](500px.com/hypercubed)
